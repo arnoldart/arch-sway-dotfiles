@@ -1,0 +1,8 @@
+2024-05-20 21:40:22.398 [debug] Could not get workspace hash for forwarded ports storage key.
+2024-05-20 21:40:22.411 [info] Started local extension host with pid 2233.
+2024-05-20 21:40:22.439 [debug] Using cached extensions scan result vscode-userdata:/home/vivy/.vscode-oss/extensions/extensions.json
+2024-05-20 21:40:22.505 [debug] Using cached extensions scan result file:///usr/lib/code/extensions
+2024-05-20 21:40:22.510 [debug] ComputeTargetPlatform: linux-x64
+2024-05-20 21:40:23.477 [debug] [Registering Log Channel] File does not exist. Waiting for 1s to retry. file:///home/vivy/.config/Code%20-%20OSS/logs/20240520T213709/window3/exthost/exthost.log
+2024-05-20 21:40:23.753 [debug] ADDED bridge agent "brigde.editor"
+2024-05-20 21:40:24.992 [debug] Comments: URIs of continue on comments to add to storage .

@@ -1,0 +1,5 @@
+2024-05-20 21:40:32.004 [info] update#setState disabled
+2024-05-20 21:40:32.006 [info] update#ctor - updates are disabled as there is no update URL
+2024-05-20 21:40:33.229 [error] [storage state.vscdb] exec(): Error: SQLITE_BUSY: database is locked
+2024-05-20 21:40:33.229 [error] [storage state.vscdb] open(): Unable to open DB due to Error: SQLITE_BUSY: database is locked
+2024-05-20 21:40:38.411 [info] Extension host with pid 2469 exited with code: 0, signal: unknown.

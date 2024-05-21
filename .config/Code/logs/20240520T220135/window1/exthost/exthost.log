@@ -1,0 +1,10 @@
+2024-05-20 22:01:37.834 [info] Extension host with pid 17047 started
+2024-05-20 22:01:37.834 [info] Skipping acquiring lock for /home/vivy/.config/Code/User/workspaceStorage/a9b465eb90952bbe053ac17fe2eeabf7.
+2024-05-20 22:01:38.060 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2024-05-20 22:01:38.191 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-05-20 22:01:38.315 [info] Eager extensions activated
+2024-05-20 22:01:38.485 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-05-20 22:01:38.488 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-05-20 22:01:40.889 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2024-05-20 22:01:41.182 [info] Extension host terminating: renderer closed the MessagePort
+2024-05-20 22:01:41.204 [info] Extension host with pid 17047 exiting with code 0

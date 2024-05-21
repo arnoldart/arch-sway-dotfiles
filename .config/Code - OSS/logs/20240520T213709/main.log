@@ -1,0 +1,30 @@
+2024-05-20 21:37:10.632 [debug] Starting VS Code
+2024-05-20 21:37:10.632 [debug] from: /usr/lib/code
+2024-05-20 21:37:10.632 [debug] args: {"_":[],"diff":false,"merge":false,"add":false,"goto":false,"new-window":false,"reuse-window":false,"wait":false,"help":false,"list-extensions":false,"show-versions":false,"pre-release":false,"update-extensions":false,"version":false,"verbose":false,"log":["debug","debug"],"status":false,"prof-startup":false,"no-cached-data":false,"prof-v8-extensions":false,"disable-extensions":false,"disable-gpu":false,"disable-chromium-sandbox":false,"sandbox":false,"telemetry":false,"debugRenderer":false,"enable-smoke-test-driver":false,"logExtensionHostCommunication":false,"skip-release-notes":false,"skip-welcome":false,"disable-telemetry":false,"disable-updates":false,"use-inmemory-secretstorage":false,"disable-workspace-trust":false,"disable-crash-reporter":false,"skip-add-to-recently-opened":false,"open-url":false,"file-write":false,"file-chmod":false,"force":false,"do-not-sync":false,"trace":false,"preserve-env":false,"force-user-env":false,"force-disable-user-env":false,"open-devtools":false,"disable-gpu-sandbox":false,"__enable-file-policy":false,"enable-coi":false,"no-proxy-server":false,"no-sandbox":false,"nolazy":false,"force-renderer-accessibility":false,"ignore-certificate-errors":false,"allow-insecure-localhost":false,"disable-dev-shm-usage":false,"profile-temp":false,"ozone-platform":"wayland","logsPath":"/home/vivy/.config/Code - OSS/logs/20240520T213709"}
+2024-05-20 21:37:10.632 [info] update#setState disabled
+2024-05-20 21:37:10.632 [info] update#ctor - updates are disabled as there is no update URL
+2024-05-20 21:37:17.205 [debug] User data changed
+2024-05-20 21:37:17.449 [debug] Terminal profile not validated zsh ["zsh"]
+2024-05-20 21:37:17.473 [debug] Terminal profile not validated fish ["fish"]
+2024-05-20 21:37:17.474 [debug] Terminal profile not validated tmux ["tmux"]
+2024-05-20 21:37:17.474 [debug] Terminal profile not validated pwsh ["pwsh"]
+2024-05-20 21:39:10.745 [info] Extension host with pid 1277 exited with code: 0, signal: unknown.
+2024-05-20 21:39:12.559 [debug] Terminal profile not validated fish ["fish"]
+2024-05-20 21:39:12.562 [debug] Terminal profile not validated tmux ["tmux"]
+2024-05-20 21:39:12.562 [debug] Terminal profile not validated zsh ["zsh"]
+2024-05-20 21:39:12.563 [debug] Terminal profile not validated pwsh ["pwsh"]
+2024-05-20 21:39:17.001 [debug] Terminal profile not validated zsh ["zsh"]
+2024-05-20 21:39:17.001 [debug] Terminal profile not validated fish ["fish"]
+2024-05-20 21:39:17.002 [debug] Terminal profile not validated tmux ["tmux"]
+2024-05-20 21:39:17.003 [debug] Terminal profile not validated pwsh ["pwsh"]
+2024-05-20 21:40:21.251 [debug] Terminal profile not validated zsh ["zsh"]
+2024-05-20 21:40:21.252 [debug] Terminal profile not validated fish ["fish"]
+2024-05-20 21:40:21.252 [debug] Terminal profile not validated tmux ["tmux"]
+2024-05-20 21:40:21.252 [debug] Terminal profile not validated pwsh ["pwsh"]
+2024-05-20 21:40:22.997 [debug] Terminal profile not validated zsh ["zsh"]
+2024-05-20 21:40:22.997 [debug] Terminal profile not validated fish ["fish"]
+2024-05-20 21:40:22.997 [debug] Terminal profile not validated tmux ["tmux"]
+2024-05-20 21:40:23.002 [debug] Terminal profile not validated pwsh ["pwsh"]
+2024-05-20 21:40:25.050 [info] Extension host with pid 2233 exited with code: 0, signal: unknown.
+2024-05-20 21:40:27.254 [info] Extension host with pid 1754 exited with code: 0, signal: unknown.
+2024-05-20 21:40:28.731 [info] Extension host with pid 2186 exited with code: 0, signal: unknown.
