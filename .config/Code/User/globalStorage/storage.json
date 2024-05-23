@@ -3,8 +3,8 @@
     "profileAssociations": {
         "workspaces": {
             "file:///home/vivy": "__default__profile__",
-            "file:///home/vivy/.config": "__default__profile__",
-            "file:///home/vivy/Downloads": "__default__profile__"
+            "file:///home/vivy/Downloads": "__default__profile__",
+            "file:///home/vivy/.config": "__default__profile__"
         },
         "emptyWindows": {}
     },
@@ -16,12 +16,13 @@
         "folders": [
             {
                 "folderUri": "file:///home/vivy/.config"
-            },
-            {
-                "folderUri": "file:///home/vivy/Downloads"
             }
         ],
-        "emptyWindows": []
+        "emptyWindows": [
+            {
+                "backupFolder": "1716423680840"
+            }
+        ]
     },
     "lastKnownMenubarData": {
         "menus": {
@@ -71,23 +72,23 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/vivy/Downloads",
-                                        "path": "/home/vivy/Downloads",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Downloads"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
                                         "external": "file:///home/vivy/.config",
                                         "path": "/home/vivy/.config",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
                                     "label": "~/.config"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/vivy/Downloads",
+                                        "path": "/home/vivy/Downloads",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Downloads"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -780,6 +781,10 @@
                     {
                         "id": "workbench.view.extensions",
                         "label": "E&&xtensions"
+                    },
+                    {
+                        "id": "workbench.view.extension.test",
+                        "label": "T&&esting"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1753,8 +1758,8 @@
                 "mode": 1,
                 "x": 0,
                 "y": 0,
-                "width": 956,
-                "height": 898
+                "width": 1916,
+                "height": 901
             }
         },
         "openedWindows": []

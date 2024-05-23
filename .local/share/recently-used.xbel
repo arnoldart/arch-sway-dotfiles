@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/vivy/.config" added="2024-05-20T14:39:10.568445Z" modified="2024-05-23T01:24:47.219770Z" visited="2024-05-20T14:39:10.568446Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="electron" exec="&apos;electron %u&apos;" modified="2024-05-20T14:39:10.568447Z" count="1"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-23T01:24:47.219769Z" count="4"/>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-05-23T00:21:41.387227Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vivy/Downloads/wallpaper.jpg" added="2024-05-20T15:45:17.719941Z" modified="2024-05-20T15:45:18.369129Z" visited="2024-05-20T15:45:17.719943Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-05-20T15:45:18.369121Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vivy/Downloads" added="2024-05-20T15:51:30.185945Z" modified="2024-05-21T12:13:50.754733Z" visited="2024-05-20T15:51:30.185946Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-21T12:13:50.754732Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vivy/Desktop" added="2024-05-20T15:51:33.428073Z" modified="2024-05-21T12:40:07.917730Z" visited="2024-05-20T15:51:33.428073Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-21T12:40:07.917728Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vivy" added="2024-05-20T15:51:33.756772Z" modified="2024-05-21T12:41:35.321080Z" visited="2024-05-20T15:51:33.756773Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-21T12:41:35.321079Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vivy/.config/waybar" added="2024-05-20T15:51:38.673465Z" modified="2024-05-21T12:14:13.002183Z" visited="2024-05-20T15:51:38.673466Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-21T12:14:13.002181Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vivy/.config/waybar/assets" added="2024-05-20T15:51:45.916926Z" modified="2024-05-21T12:14:13.657307Z" visited="2024-05-20T15:51:45.916926Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-21T12:14:13.657306Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vivy/.config/waybar/assets/wallpaper.jpg" added="2024-05-20T15:57:40.076641Z" modified="2024-05-20T15:57:40.803975Z" visited="2024-05-20T15:57:40.076643Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-05-20T15:57:40.803971Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vivy/Downloads/clock-time-eight-outline.svg" added="2024-05-21T12:13:01.943689Z" modified="2024-05-21T12:13:01.943722Z" visited="2024-05-21T12:13:01.943692Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/svg+xml"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-05-21T12:13:01.943716Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vivy/Documents" added="2024-05-21T12:13:48.252094Z" modified="2024-05-21T12:13:48.252097Z" visited="2024-05-21T12:13:48.252094Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-21T12:13:48.252095Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vivy/.config/sway" added="2024-05-21T12:14:07.320880Z" modified="2024-05-21T12:14:07.320883Z" visited="2024-05-21T12:14:07.320880Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-21T12:14:07.320881Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vivy/.config/waybar/assets/icons" added="2024-05-21T12:14:14.273406Z" modified="2024-05-21T12:14:14.273409Z" visited="2024-05-21T12:14:14.273407Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-21T12:14:14.273407Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vivy/.config/pulse" added="2024-05-21T12:38:29.372694Z" modified="2024-05-21T12:38:29.372698Z" visited="2024-05-21T12:38:29.372695Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-21T12:38:29.372696Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vivy/github" added="2024-05-21T12:39:09.861330Z" modified="2024-05-23T01:28:11.858467Z" visited="2024-05-21T12:39:09.861330Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-23T01:28:11.858462Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vivy/github/arch-wayland-dotfiles" added="2024-05-21T12:39:10.692675Z" modified="2024-05-23T01:24:54.561365Z" visited="2024-05-21T12:39:10.692675Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-23T01:24:54.561364Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vivy/github/arch-wayland-dotfiles/.config" added="2024-05-21T12:39:27.013807Z" modified="2024-05-21T12:39:27.013810Z" visited="2024-05-21T12:39:27.013808Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-21T12:39:27.013809Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vivy/github/arch-sway-dotfiles" added="2024-05-23T01:28:00.104242Z" modified="2024-05-23T01:28:12.879629Z" visited="2024-05-23T01:28:00.104243Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-23T01:28:12.879628Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

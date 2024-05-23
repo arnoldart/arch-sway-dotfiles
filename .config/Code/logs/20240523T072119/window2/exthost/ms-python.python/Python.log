@@ -1,0 +1,28 @@
+2024-05-23 07:49:41.797 [info] Experiment 'pythonCreateEnvOnPipInstall' is active
+2024-05-23 07:49:41.797 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-05-23 07:49:41.797 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-05-23 07:49:41.797 [info] Experiment 'pythonTestAdapter' is active
+2024-05-23 07:49:42.074 [info] Default formatter is set to null for workspace /home/vivy/.config
+2024-05-23 07:49:42.896 [info] > conda info --json
+2024-05-23 07:49:42.905 [info] > hatch env show --json
+2024-05-23 07:49:42.905 [info] cwd: .
+2024-05-23 07:49:42.956 [info] > pyenv which python
+2024-05-23 07:49:42.959 [info] cwd: .
+2024-05-23 07:49:43.052 [info] Found: /bin/python --> /bin/python3.12
+2024-05-23 07:49:43.057 [info] Found: /bin/python3 --> /bin/python3.12
+2024-05-23 07:49:43.058 [info] Found: /bin/python3.12 --> /bin/python3.12
+2024-05-23 07:49:43.311 [info] Found: /sbin/python --> /sbin/python3.12
+2024-05-23 07:49:43.312 [info] Found: /sbin/python3 --> /sbin/python3.12
+2024-05-23 07:49:43.312 [info] Found: /sbin/python3.12 --> /sbin/python3.12
+2024-05-23 07:49:43.326 [info] Found: /usr/bin/python --> /usr/bin/python3.12
+2024-05-23 07:49:43.328 [info] Found: /usr/bin/python3 --> /usr/bin/python3.12
+2024-05-23 07:49:43.329 [info] Found: /usr/bin/python3.12 --> /usr/bin/python3.12
+2024-05-23 07:49:43.486 [info] Found: /usr/sbin/python --> /usr/sbin/python3.12
+2024-05-23 07:49:43.489 [info] Found: /usr/sbin/python3 --> /usr/sbin/python3.12
+2024-05-23 07:49:43.491 [info] Found: /usr/sbin/python3.12 --> /usr/sbin/python3.12
+2024-05-23 07:49:43.563 [info] > /bin/python -I ~/.vscode/extensions/ms-python.python-2024.6.0/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.6.0/python_files/interpreterInfo.py
+2024-05-23 07:49:43.590 [info] > /sbin/python -I ~/.vscode/extensions/ms-python.python-2024.6.0/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.6.0/python_files/interpreterInfo.py
+2024-05-23 07:49:44.562 [info] > /usr/bin/python -I ~/.vscode/extensions/ms-python.python-2024.6.0/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.6.0/python_files/interpreterInfo.py
+2024-05-23 07:49:44.570 [info] > /usr/sbin/python -I ~/.vscode/extensions/ms-python.python-2024.6.0/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.6.0/python_files/interpreterInfo.py
+2024-05-23 07:49:44.645 [info] Python interpreter path: /bin/python
+2024-05-23 07:49:45.935 [info] Starting Pylance language server.

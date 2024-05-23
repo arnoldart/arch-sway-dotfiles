@@ -1,0 +1,42 @@
+2024-05-23 07:47:26.447 [info] Getting Manifest... ms-python.python
+2024-05-23 07:47:26.611 [info] Installing extension: ms-python.python
+2024-05-23 07:47:28.684 [info] Getting Manifest... ms-python.vscode-pylance
+2024-05-23 07:47:28.777 [info] Getting Manifest... ms-python.debugpy
+2024-05-23 07:47:29.305 [info] Installing extension: ms-python.vscode-pylance
+2024-05-23 07:47:29.306 [info] Installing extension: ms-python.debugpy
+2024-05-23 07:47:34.630 [info] Extension signature verification result for ms-python.debugpy: UnknownError. Duration: 820ms.
+2024-05-23 07:47:36.434 [info] Extension signature verification result for ms-python.python: UnknownError. Duration: 88ms.
+2024-05-23 07:47:36.902 [info] Extension signature verification result for ms-python.vscode-pylance: UnknownError. Duration: 26ms.
+2024-05-23 07:47:53.487 [info] Extracted extension to file:///home/vivy/.vscode/extensions/ms-python.debugpy-2024.6.0-linux-x64: ms-python.debugpy
+2024-05-23 07:47:53.640 [info] Renamed to /home/vivy/.vscode/extensions/ms-python.debugpy-2024.6.0-linux-x64
+2024-05-23 07:47:53.719 [info] Extracting extension completed. ms-python.debugpy
+2024-05-23 07:47:53.862 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/vivy/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/vivy/.vscode/extensions/extensions.json.vsctmp'
+    at a.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30019)
+    at b (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30130)
+    at t.hb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async $.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async J.sb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:109501)
+2024-05-23 07:48:45.519 [info] Extracted extension to file:///home/vivy/.vscode/extensions/ms-python.python-2024.6.0: ms-python.python
+2024-05-23 07:48:45.589 [info] Renamed to /home/vivy/.vscode/extensions/ms-python.python-2024.6.0
+2024-05-23 07:48:45.647 [info] Extracting extension completed. ms-python.python
+2024-05-23 07:48:45.780 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/vivy/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/vivy/.vscode/extensions/extensions.json.vsctmp'
+    at a.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30019)
+    at b (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30130)
+    at t.hb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async $.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async J.sb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:109501)
+2024-05-23 07:49:39.955 [info] Extracted extension to file:///home/vivy/.vscode/extensions/ms-python.vscode-pylance-2024.5.1: ms-python.vscode-pylance
+2024-05-23 07:49:39.994 [info] Renamed to /home/vivy/.vscode/extensions/ms-python.vscode-pylance-2024.5.1
+2024-05-23 07:49:40.003 [info] Extracting extension completed. ms-python.vscode-pylance
+2024-05-23 07:49:40.038 [info] Extension installed successfully: ms-python.debugpy
+2024-05-23 07:49:40.039 [info] Extension installed successfully: ms-python.python
+2024-05-23 07:49:40.039 [info] Extension installed successfully: ms-python.vscode-pylance
+2024-05-23 07:49:40.114 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/vivy/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/vivy/.vscode/extensions/extensions.json.vsctmp'
+    at a.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30019)
+    at b (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30130)
+    at t.hb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async $.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async J.sb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:109501)
